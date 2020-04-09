@@ -1,2 +1,4 @@
 theme: jekyll-theme-midnight
 title: Welcome to ServanSo's homepage
+plugins:
+  - jemoji
