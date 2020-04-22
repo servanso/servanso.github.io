@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include 01-project-logo.md %}
+{% include 01-project-overview.md %}
 
 <br>
 
