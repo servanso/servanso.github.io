@@ -1,1 +1,0 @@
-Insert project logo here.
