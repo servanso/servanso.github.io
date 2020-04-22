@@ -10,12 +10,12 @@ On track to using resources: __Challenges__
 
 #### T3.1 Coordinate metadata catalogue services
 Status: __In progress__
-- A data landscaping was carried out in November-December 2019 (DOI) to survey the current usage and approaches to metadata catalogues at our 10 national RIs. Specifically, which data catalogues were used, which file formats, database for metadata, primary software language and the number of public datasets available today were collected. The metadata standards used and how the metadata is collected at the facilities was also surveyed.
+- A data landscaping was carried out in November-December 2019 ([DOI: 10.5281/zenodo.3673810](https://doi.org/10.5281/zenodo.3673810)) to survey the current usage and approaches to metadata catalogues at our 10 national RIs. Specifically, which data catalogues were used, which file formats, database for metadata, primary software language and the number of public datasets available today were collected. The metadata standards used and how the metadata is collected at the facilities was also surveyed.
 - A gap analysis will follow in the next months. It needs the requirements to be further discussed with WP2.
 
 #### T3.2 Develop ontology
 Status: __In progress__
-- The activities on ontology started at M6. As a starting point, the beamline scientists at Diamond were asked at mid-March to provide their search terms with several guiding use cases. The answers will be analysed early April, the survey improved and then sent to other partner facilities users.
+- The activities on ontology started at M6. As a starting point, the beamline scientists at Diamond were asked at mid-March to provide their search terms with several guiding use cases. The answers will be analysed early April, the survey improved and then sent to other partner facilities users. The survey can be found [here](https://forms.office.com/Pages/ResponsePage.aspx?id=dLonnQABDU2B_x1yja6N9jSmTMKYiOxIoXn4U5uPgYlUN09WR0gzNlNGQVZOR1dZQkVWT0ExNzA4SC4u) (data miners are welcome to participate).
 - In parallel, the collaboration with WP2 task on metadata standards and NeXus format is well in place with meetings every 2 weeks.
 
 #### T3.3 Implement ontologies
