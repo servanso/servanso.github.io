@@ -1,6 +1,18 @@
-I'm glad you are here.  
-Let's talk about how our lives will (or should) have changed after COVID-19.  :woman_juggling::man_juggling:
+---
+layout: default
+---
 
-### Credits
-- [Jekyll](https://jekyllrb.com/)
-- [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+{% include 01-project-logo.md %}
+
+<br>
+
+{% include 02-WP2-report.md %}
+
+<br>
+
+{% include 03-WP3-report.md %}
+
+<br>
+
+{% include 04-WP4-report.md %}
+
