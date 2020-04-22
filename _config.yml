@@ -5,10 +5,7 @@ logo: https://i2.wp.com/expands.eu/wp-content/uploads/2019/12/cloud-1.png?resize
 show_downloads: false
 
 header_pages:
-  - _pages/archive.md
-
-include:
-  - _pages
+  - archive.md
   
 plugins:
   - jemoji
