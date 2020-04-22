@@ -1,6 +1,6 @@
 ---
 permalink: /archives
-layout: page
+layout: default
 title: Previous reports
 ---
 
