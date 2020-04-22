@@ -1,1 +1,1 @@
-A few words on the overview :mag_right:
+A few words on the overview
