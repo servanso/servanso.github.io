@@ -1,7 +1,8 @@
 ### WP3 report
 Updated: 02.04.2020
 
-WP3 has now ended its start-up phase. The tasks and responsibilities of the different partners were clarified in Jan-Feb 2020, WP3 meetings now hold at a frequency of ~3/month. The collaboration work with PaNOSC also started, specifically thanks to a F2F meeting in Lund in early February, focused on the search API.
+WP3 has now ended its start-up phase. The tasks and responsibilities of the different partners were clarified in Jan-Feb 2020, WP3 meetings now hold at a frequency of ~3/month. The collaboration work with PaNOSC also started, specifically thanks to a F2F meeting in Lund in early February, focused on the search API.  
+
 Upcoming deliverables:  
 - [ ] D3.1: report on status, gap analysis and roadmap towards harmonised and federated metadata catalogues `08.2020`
 - [ ] D3.2: ExPaNDS ontology v1.0 released and available in EOSC `02.2021`  
