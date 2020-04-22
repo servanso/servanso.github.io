@@ -3,7 +3,12 @@ title: ExPaNDS progress report
 description: Monthly reports of the ExPaNDS project. This project receives funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 857641.
 logo: https://i2.wp.com/expands.eu/wp-content/uploads/2019/12/cloud-1.png?resize=1024%2C717&ssl=1
 show_downloads: false
-plugins:
-  - jemoji
+
 header_pages:
   - _pages/archive.md
+
+include:
+  - _pages
+  
+plugins:
+  - jemoji
