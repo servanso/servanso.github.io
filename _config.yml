@@ -1,4 +1,4 @@
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 title: Welcome to ServanSo's homepage
 plugins:
   - jemoji
